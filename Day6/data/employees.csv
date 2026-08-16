@@ -1,0 +1,9 @@
+employee_id,employee_name,email,salary,city,department_id
+1,Ali,ali@gmail.com,80000,Lahore,1
+2,Sara,sara@gmail.com,65000,Karachi,2
+3,Ahmed,ahmed@gmail.com,90000,Islamabad,1
+4,Fatima,fatima@gmail.com,70000,Lahore,3
+5,Usman,usman@gmail.com,95000,Karachi,1
+6,Ayesha,ayesha@gmail.com,60000,Lahore,2
+7,Bilal,bilal@gmail.com,55000,Islamabad,4
+8,Hina,hina@gmail.com,85000,Karachi,3
